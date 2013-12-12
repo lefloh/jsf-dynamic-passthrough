@@ -1,0 +1,5 @@
+# triggers registration of theese extensions. 
+# EAP6 won't register them if they are a module and not part of the deployment. 
+com.sun.faces.flow.FlowCDIExtension
+com.sun.faces.flow.FlowDiscoveryCDIExtension
+com.sun.faces.application.view.ViewScopeExtension
